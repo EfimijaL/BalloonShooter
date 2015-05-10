@@ -21,6 +21,7 @@
 Во оваа форма (Сл.2) се чува упатството кое ги содржи правилата на играта.
 
 ![alt tag](https://scontent-ams.xx.fbcdn.net/hphotos-xpt1/v/t34.0-12/11262935_985430678134212_1214505658_n.jpg?oh=5ae4abb72edbaf10e47d440c6aba151b&oe=55528CC0)
+
 Сл.2
 
 ###**2.3 High scores**###
